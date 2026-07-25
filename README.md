@@ -45,8 +45,7 @@
 
 ### 📫 Connect
 
-<!-- Fill these in / remove any you don't want public -->
-- ✉️ Email: **amit32310@gmail.com**
-- 💼 LinkedIn: _add your profile URL here_
+- ✉️ Email: **agarwalaashrut@gmail.com**
+- 💼 LinkedIn: https://www.linkedin.com/in/aashrutagarwal/
 
 <sub>⚠️ These are personal projects for learning and research — nothing here is financial advice.</sub>
